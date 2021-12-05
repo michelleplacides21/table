@@ -1,0 +1,31 @@
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:blue ;
+    
+    
+}
+    
+    table{
+        font-family:sans-serif;
+        border-collapse:collapse;                           
+
+    }
+    
+
+th{
+    background-color: rgb(160, 54, 54);
+    color:#fff;
+
+}
+th,td{
+    padding: 1rem;
+    font-size:1.4rem;
+}
+tbody{
+    background-color:#eee;
+    color:#555;
+
+}
